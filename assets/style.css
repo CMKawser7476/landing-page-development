@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(66, 66, 163);
+}
+
+.section_bg{
+  background-image:url("img/back.PNG");
+    background-size: cover;
+    background-position:center right ;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative; 
+    display: table;
+    width: 100%;
+    
+  }
+
+
+.uiux.h1{
+  font-size:xx-large;
+  font-weight: 600;
+}
+
+.brder{
+  border-radius: 50px;
+}
+
+
+.brder_card{
+  border-radius: 100px;
+}
+.course_module{
+  border-radius: 20px;
+}
+
+.fntsize.p{
+  font-size: 125%;
+}
+
+.fntsize.p.spc{
+  line-height: 200%;
+}
+
+.fntsize.li.spc{
+  line-height: 200%;
+}
+
+
+.common-background{
+  background-color: black;
+}
+
+
+
+.img {
+  border-radius: 100%;
+}
+
+
+
+
+
+
